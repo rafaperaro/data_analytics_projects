@@ -6,7 +6,7 @@ quantitative analysis using real-world datasets and business-driven questions.
 
 ---
 
-## Featured Projects (Start Here)
+## Featured Projects
 
 ### End-to-End Healthcare Machine Learning: CMS Scores
 **Repository:**  
@@ -31,6 +31,7 @@ of forecast uncertainty.
 **Skills:** Time Series Analysis, Forecasting, Quantitative Modeling
 
 ---
+
 
 ## Additional Applied Projects
 
