@@ -1,73 +1,67 @@
-# Business Analytics Portfolio – Rafaella Peraro de Andrade
+# Business Analytics Portfolio
 
-This repository highlights selected projects completed over the courses I've taken as a Business Analytics major at Hult International Business School.
-
-The projects below showcase my skills in:
-- Data analysis & visualization
-- Machine learning & statistical modeling
-- SQL & database design
-- Time series forecasting
-- Optimization & decision modeling
+This repository serves as a portfolio of selected analytics projects,
+showcasing end-to-end data workflows, machine learning, forecasting, and
+quantitative analysis using real-world datasets and business-driven questions.
 
 ---
 
-## Featured Projects
+## Featured Projects (Start Here)
 
-### 1. End-to-End Machine Learning: CMS Score Prediction
+### End-to-End Healthcare Machine Learning: CMS Scores
+**Repository:**  
+https://github.com/rafaperaro/end-to-end-healthcare-ml-cms-scores
 
-🔗 Repository: (link)
+End-to-end machine learning analysis of healthcare CMS scores, combining
+exploratory data analysis, unsupervised learning, and predictive modeling to
+derive business-relevant insights in a real-world healthcare context.
 
-- Market research and exploratory data analysis
-- Feature engineering and unsupervised learning
-- Model development and evaluation
-- Business-oriented interpretation of results
-
----
-
-### 2. Feature Selection & Model Interpretability (Breast Cancer Dataset)
-
-🔗 Repository: (link)
-
-- KBest and LASSO feature selection
-- Regression-based evaluation
-- Focus on interpretability and performance trade-offs
+**Skills:** EDA, Machine Learning, Unsupervised Learning, Business Insights
 
 ---
 
-### 3. Exploratory Data Analysis & Feature Engineering
+### Time Series Forecasting: Stock Prices
+**Repository:**  
+https://github.com/rafaperaro/time-series-forecasting-stocks
 
-🔗 Repository: (link)
+Time series forecasting of real-world stock data using ARIMA and Exponential
+Smoothing, with a focus on trend analysis, model comparison, and interpretation
+of forecast uncertainty.
 
-- Data cleaning and transformation
-- Interaction terms
-- Principal Component Analysis (PCA)
-
----
-
-### 4. SQL & Database Design
-
-🔗 Repository: (link)
-
-- ERD and logical schema design
-- Relational database creation
-- SQL querying for business cases
+**Skills:** Time Series Analysis, Forecasting, Quantitative Modeling
 
 ---
 
-### 5. Time Series Forecasting
+## Additional Applied Projects
 
-🔗 Repository: (link)
+### Feature Selection & Interpretability: Breast Cancer Dataset
+**Repository:**  
+https://github.com/rafaperaro/feature-selection-breast-cancer-dataset
 
-- ARIMA and exponential smoothing
-- Forecasting real-world stock data
-- Model comparison and interpretation
+Applied feature selection using KBest and LASSO to identify the most influential
+variables in a healthcare classification problem, with an emphasis on model
+interpretability.
+
+**Skills:** Feature Engineering, Model Interpretation, Classification
 
 ---
 
-### 6. Optimization & Decision Analytics
+### SQL Database Design & ERD Modeling
+**Repository:**  
+https://github.com/rafaperaro/sql-database-design-erd
 
-🔗 Repository: (link)
+Database design projects combining SQL querying, entity-relationship modeling,
+and logical schema design for business-oriented database cases.
 
-- Linear programming
-- Non-linear optimization
-- Markov chains and transition matrices
+**Skills:** SQL, Database Design, ERD, Data Modeling
+
+---
+
+## About This Portfolio
+
+Projects in this portfolio were selected to emphasize:
+- End-to-end analytical thinking
+- Business and decision-making context
+- Clear, interpretable modeling approaches
+
+Each repository includes focused documentation and reproducible analysis.
